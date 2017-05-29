@@ -1,4 +1,3 @@
-import Ember from 'ember';
 import Route from 'ember-route';
 import service from 'ember-service/inject';
 
